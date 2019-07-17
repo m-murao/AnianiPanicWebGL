@@ -1,0 +1,16 @@
+{
+"companyName": "MuraOS",
+"productName": "AnianiPanic",
+"productVersion": "0.0.1",
+"dataUrl": "AnianiPanicWebGL.data.unityweb",
+"wasmCodeUrl": "AnianiPanicWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "AnianiPanicWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.10f1"
+}
